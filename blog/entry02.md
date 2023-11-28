@@ -1,7 +1,7 @@
-# Entry 2
-##### X/X/XX
+# Entry 2 hardware and software
+##### 11/28/23
 
-Text
+<h1>Hardware</h1>
 
 [Previous](entry01.md) | [Next](entry03.md)
 
