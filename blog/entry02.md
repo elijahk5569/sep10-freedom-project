@@ -6,7 +6,18 @@
 
 <h1>EDP</h1>
 
-<p>I am currently is the second stage which is fix the promblem. When you fixe the problem it makes things much more easier. The promblem i hope to fix is make people know the problem before it is a big problem. I say this because before the problem becomes a big problem</p>
+<p>I am currently is the second stage which is fix the promblem. When you fixe the problem it makes things much more easier. The promblem i hope to fix is make people know the problem before it is a big problem. I say this because before the problem becomes a big problem so they can hget rid of the tension and hopefully get rid of the group or just the over all problem completely.</p>
+
+<h1>skills</h1>
+
+<h4>Time management</h4>
+
+ I have several commitments outside of school, such as picking up my brother from school every day, picking up my lil cousin, and being in the gym 5 days a week. But my workload at school is becoming harder to handle, so I needed to make more time for this project as well as my Math class. So I decided to cut back from two days of playing games per week to just 3 day per week. I think this change will help moving forward.
+
+<h4>Being able to understand quickly.</h4>
+
+When i look at a something im Able to grasp new concepts quickly. When we learn something in math i am able to get it more quickly the others which i think is a skill i can use because this will help me get things way more faster and get my work done way faster then other people in the class.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
