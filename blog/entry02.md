@@ -3,6 +3,10 @@
 
 <h1>Hardware</h1>
 <p>Okay so my topic is international affairs and for entry number 2 i will be talking about the hardware and software that is involed in international affairs. So first i will be talking about communication devices. This hardware was a no brainer because when i was writing my first entry,i metioned about they needed to communicate between countries so really i just had to go back to entry one and think. Next is weapons like (guns,bombs,nukes,and tanks)i got this from (https://www.military.com/equipment/weapons) This one is also a no brainer because it involes wars and fights. So obviously it will have weapons. Without weapons it will be no wars and international affairs. To me those are the most important hardware. Next is software.Software is a set of instructions, data or programs used to operate computers and execute specific tasks. It is the opposite of hardware, which describes the physical aspects of a computer. Software is a generic term used to refer to applications, scripts and programs that run on a device.The first one is Quantitative data analysis.Quantitative data analysis software is a tool that market researchers need to gather, analyse, and present the results of their research in an easy-to-understand manner. Without this type of software, any resulting graphs or charts wouldn't be able to communicate their information effectively. Without this it people will not be able to gather information so quickly.Next is historical analysis.Historical data, in a broad context, is data collected about past events and circumstances pertaining to a particular subject. By definition, historical data includes most data generated either manually or automatically within an enterprise.</p>
+
+<h1>EDP</h1>
+
+<p>I am currently is the second stage which is fix the promblem. When you fixe the problem it makes things much more easier. The promblem i hope to fix is make people know the problem before it is a big problem. I say this because before the problem becomes a big problem</p>
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
