@@ -18,6 +18,9 @@
 
 When i look at a something im Able to grasp new concepts quickly. When we learn something in math i am able to get it more quickly the others which i think is a skill i can use because this will help me get things way more faster and get my work done way faster then other people in the class.
 
+<h1>Next steps</h1>
+Looking forward to research more about international affairs.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
