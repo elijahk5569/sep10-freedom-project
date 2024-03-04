@@ -1,11 +1,12 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: WOW.JS
 
 ---
 
-X/X/X:
-* Text
+2/26-3/4
+* wow.js(https://wowjs.uk/) i look at the sets of animations and saw how they looked
+* how to use wow.js animate.css(https://youtu.be/Isr8vaIcKlg?si=4jE7ROcfdrTvzYc3)
 
 X/X/X:
 * Text
