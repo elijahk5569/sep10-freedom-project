@@ -12,7 +12,21 @@
 
 i Tinkerd with wow.js in github by making a new repository and adding CSS with some animations with wow.js.
 ```language
-
+return DefaultTextStyle(
+  style: const TextStyle(
+    fontSize: 20.0,
+  ),
+  child: AnimatedTextKit(
+    animatedTexts: [
+      WavyAnimatedText('Hello World'),
+      WavyAnimatedText('Look at the waves'),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
 ```
 
 
