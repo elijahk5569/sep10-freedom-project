@@ -28,6 +28,12 @@ return DefaultTextStyle(
   ),
 );
 ```
+### Skills 
+
+With this you are gonna need to know the ins and outs of github. Luckily i had an older brother who helped me. He told me you are gonna need pratice to rweally learn animation text. But once you learn that just copy the animation and paste it in github.
+
+### Edp 
+
 
 
 
