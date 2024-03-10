@@ -12,30 +12,31 @@
 
 i Tinkerd with wow.js in github by making a new repository and adding CSS with some animations with wow.js.
 ```language
-return DefaultTextStyle(
-  style: const TextStyle(
-    fontSize: 20.0,
-  ),
-  child: AnimatedTextKit(
-    animatedTexts: [
-      WavyAnimatedText('Hello World'),
-      WavyAnimatedText('Look at the waves'),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);
+<!-- Animate.css -->
+<link rel="stylesheet" href="css/animate.css">
+<!-- Wow.js -->
+<script src="js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+<div class="wow">
+    This is some content to be revealed
+</div>
+<div class="wow rubberBand">
+    The stuffs to animate goes here
+</div>
 ```
 ### Skills 
 
-<h3>Knowlegde</h3>
+<h3>Knowlegde and where to use it</h3>
 
-With this you are gonna need to know the ins and outs of github. Luckily i had an older brother who helped me. He told me you are gonna need pratice to rweally learn animation text. But once you learn that just copy the animation and paste it in github.
+With this you are gonna need to know the ins and outs of github. Luckily i had an older brother who helped me. He told me you are gonna need pratice to rweally learn animation text. But once you learn that just copy the animation and paste it in github. I also learned when to use it. Back then i put it anywhere but now i know that you use animation like on headers or bold texts.
 
 ### Edp 
-Im currently in the stage where you learn your tool. You are gonna have to learn the animation text code to acutal use WOW.JS. If you don't it won't work at all. So Your gonna need some time on your hands to acutal Use wow.js if you don't it will be way more diffcult then it seems.
+Im currently in the stage where you learn your tool. You are gonna have to learn the animation text code to acutal use WOW.JS. If you don't it won't work at all. So Your gonna need some time on your hands to acutal Use wow.js if you don't it will be way more diffcult then it seems. In my next EDP(Engineering design process) I want to make a project and actual test it out on soome texts and fix any errors i have in my code.
+
+### sources
+(https://wowjs.uk/) (https://medium.com/codebagng/making-awesome-animations-using-animate-css-and-wow-js-2e9ac4faad75)
 
 
 
