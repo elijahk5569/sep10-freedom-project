@@ -33,7 +33,7 @@ return DefaultTextStyle(
 With this you are gonna need to know the ins and outs of github. Luckily i had an older brother who helped me. He told me you are gonna need pratice to rweally learn animation text. But once you learn that just copy the animation and paste it in github.
 
 ### Edp 
-
+Im currently in the stage where you learn your tool. You are gonna have to learn the animation text code to acutal use WOW.JS. If you don't it won't work at all. So 
 
 
 
