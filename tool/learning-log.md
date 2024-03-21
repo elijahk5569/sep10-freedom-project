@@ -14,13 +14,9 @@ Tool: WOW.JS
 
 3/4-3/11
 
-* Text
+* wow.js is compatible with most coding sites
+* wow.js have a animate.css to try the animations 
+* wow.js has starter code for codingg
+* 
 
 
-<!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
