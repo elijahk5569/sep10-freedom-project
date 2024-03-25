@@ -16,7 +16,11 @@ Tool: WOW.JS
 
 * wow.js is compatible with most coding sites
 * wow.js have a animate.css to try the animations 
-* wow.js has starter code for codingg
+* wow.js has starter code for coding
+* wow.js is orginally made for java but progessed in time for other coding sight
+
+3/11-3/18
+* i tried to animate some words in github
 * 
 
 
